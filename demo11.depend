@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1729517931 source:c:\users\el-huda\downloads\iti\c course\demo11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1729514331 source:c:\users\el-huda\downloads\iti\c course\demo11menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
